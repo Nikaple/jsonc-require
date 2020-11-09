@@ -1,5 +1,5 @@
 {
-  "name": "jsonc-require",
+  "name": "require-jsonc",
   "description": "jsonc for require(), similar to the one used by VS Code.",
   "version": "0.1.1",
   "main": "index.js",
